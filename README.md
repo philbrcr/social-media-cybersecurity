@@ -42,7 +42,7 @@ A simple, actionable checklist covering core cybersecurity best practices for ma
 🔗 **Read the full LinkedIn article**:  
 _Marketing Isn’t Immune: Why Social Media Pros Must Start Thinking Like Cyber Defenders_ 
 
-📍 Published via LinkedIn (https://www.linkedin.com/pulse/social-media-isnt-immune-why-professionals-must-start-ryan-jhoge)
+📍 Published via LinkedIn [https://www.linkedin.com/pulse/social-media-isnt-immune-why-professionals-must-start-ryan-jhoge]
 
 ---
 
